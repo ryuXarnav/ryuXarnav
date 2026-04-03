@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryuxarnav" alt="ryuxarnav" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [http://ryu-senpie.gamer.gd/](http://ryu-senpie.gamer.gd/)
+- 👨‍💻 All of my projects are available at [http://ryu-senpie.gamer.gd/](http://senpie.unaux.com/)
 
-- 📝 I regularly write articles on [http://ryu-senpie.gamer.gd/](http://ryu-senpie.gamer.gd/)
+- 📝 I regularly write articles on [http://ryu-senpie.gamer.gd/]()http://senpie.unaux.com/
 
 - ⚡ Fun fact **i am not mid**
 
